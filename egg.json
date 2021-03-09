@@ -1,0 +1,15 @@
+{
+  "name": "ReaderT",
+  "version": "0.0.1",
+  "description": "Reader Tranformer",
+  "entry": "./mod.ts",
+  "files": [
+    "./README.md"
+  ],
+  "repo": "https://github.com/hyper63/readerT",
+  "homepage": "https://github.com/hyper63/readerT",
+  "stable": true,
+  "check": true,
+  "ignore": [],
+  "unlisted": false
+}
