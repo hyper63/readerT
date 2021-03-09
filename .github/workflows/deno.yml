@@ -13,6 +13,7 @@ jobs:
         uses: denolib/setup-deno@master
         with:
           deno-version: ${{ matrix.deno }}
+      - name: Print Deno version
         run: deno --version
       - name: Check Format
         run: deno fmt --check 
